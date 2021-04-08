@@ -6,7 +6,7 @@ This App is built in React and TypeScript using Robohash API.I am a big fan of D
 
 ## Demo
 
-Link 👉 To be added.
+👉 [Link](https://musing-clarke-49a837.netlify.app/)
 
 ## Screenshot
 
